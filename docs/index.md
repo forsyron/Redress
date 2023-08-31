@@ -1,14 +1,10 @@
 # **REDRESS CLEAN ENERGY**
 
-## // Table of Contents
-
-* //
-* //
-* //
-
-## **Executive Summary:**
+## **Executive Summary**
 
 Introducing **REDRESS**, a revolutionary hybrid biomass and solar thermal (*HyBAST*) storage technology. It offers a cost-effective solution for achieving **100% renewable energy** without costly battery storage. REDRESS stands out for its adaptability to various clean energy sources, utilization of a cutting-edge rotary hot air engine, efficient factory manufacturing, and quick on-site installation. This innovation could reshape Australia's clean energy landscape.
+
+---
 
 ## Project Mission Statement
 
@@ -21,7 +17,9 @@ We are dedicated to advancing the energy landscape by creating a storage solutio
 
 Together, let's shape a greener future through innovative energy storage.
 
-## **Advantages:**
+---
+
+## **Advantages**
 
 * Powered by multiple clean energy sources for up to **100% supply security**.
 * Cost-effective alternative to other storage options, especially in *long-duration* applications.
@@ -30,10 +28,14 @@ Together, let's shape a greener future through innovative energy storage.
 * Ensures *reliability* and *resilience*.
 * Can provide energy security services to the *National Energy Market (NEM)*.
 
-## **Issues**
+---
 
-* Identifying issues and offering solutions is a very persuasive.
-
-## **Resources:**
+## **Resources**
 
 REDRESS generators are constructed from common materials, primarily *steel and glass*, without hazardous substances. They're fully assembled in factories and then transported to sites, where installation takes just *2-3 days* with minimal environmental impact.
+
+---
+
+## Contact
+
+• Contact is via email glyn.evans555@gmail.com

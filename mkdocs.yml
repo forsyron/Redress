@@ -1,3 +1,4 @@
+
 site_name: Redress Clean Energy
 site_url: https://redressenergy.info
 nav:
@@ -11,5 +12,4 @@ nav:
   - Storage: storage.md
   - Energy Cost: energy_cost.md
  
-
 theme: readthedocs
