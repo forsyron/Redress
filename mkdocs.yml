@@ -2,14 +2,14 @@ site_name: Redress Clean Energy
 site_url: https://redressenergy.info
 nav:
   - Home: index.md
+  - About Me: about_me.md
   - Intro: intro.md
   - About: about.md
+  - Advantages: advantages.md
   - Background: background.md
   - New Engine: new_engine.md
   - Storage: storage.md
   - Energy Cost: energy_cost.md
-  - Resources: resources.md
-  - References: references.md
-  - About Me: about_me.md
+ 
 
 theme: readthedocs
